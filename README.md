@@ -1,5 +1,6 @@
 # HubSpot Deal Updater
 
+
 This script:
 - Retrieves deals associated with HubSpot contacts from an Excel file
 - Identifies the first 'Closed Won' deal for each contact
